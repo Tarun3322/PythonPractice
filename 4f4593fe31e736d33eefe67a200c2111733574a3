@@ -16,6 +16,23 @@
       "message": "Kindly review and confirm the changes",
       "revId": "4f4593fe31e736d33eefe67a200c2111733574a3",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "12e8056d_f3ed6fe3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020525
+      },
+      "writtenOn": "2022-09-21T11:56:28Z",
+      "side": 1,
+      "message": "Looks good for me.",
+      "revId": "4f4593fe31e736d33eefe67a200c2111733574a3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }

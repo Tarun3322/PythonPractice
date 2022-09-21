@@ -1,1 +1,1 @@
-git push https://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@github.com/Tarun3322/PythonPractice.git
+git push https://ghp_VLJKprqNcW4B+Jzma+bC0jEXQhRetDavQ7Hfn99FBA@github.com/Tarun3322/PythonPractice.git

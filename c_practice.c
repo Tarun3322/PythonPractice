@@ -94,5 +94,22 @@ int main(){
 //}
 
 
-
+//
+//#include <stdio.h>
+//
+//int main() {
+//    int x = 10;
+//    int y = 11;
+//
+//    int *x1 = &x;
+//    int *y1 = &y;
+//
+//    int temp = *x1;
+//    *x1 = *y1;
+//    *y1 = temp;
+//
+//    printf("*x1 = %d  *x2 = %d", *x1, *y1);
+//
+//    return 0;
+//}
 

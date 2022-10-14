@@ -1,0 +1,12 @@
+Introduce yourself
+Write a code in C to reverse a string. Optimize it.
+Can you write the same code with dynamic memory allocation?
+Write a MYSQL command to make update a value in a table.
+How will you build a C code?
+You have a device which doesn't have any monitor to show the output. It will only outputs the audio. You wrote if else blocks in my code. Based on the input from the user, we will get an output. How can I know which block got executed?
+Write Hello world using a function in python.
+How you used terraform?
+How will you debug? Which tools you used?
+Difference between Gerrit Change ID and Git commit ID. If I amend a commit, Will the commit ID change? What about Change ID? will it change?
+He showed me a picture with few vehicles in it. Asked me to explain each car's POV. 
+He showed me one more pic of a curved road. Asked me what will I do now.

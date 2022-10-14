@@ -382,3 +382,10 @@ import math
 #
 # else:
 #     print('Your choice is not available')
+
+a = "Hello World!"
+
+def func():
+    print(a)
+
+func()

@@ -10,3 +10,4 @@ How will you debug? Which tools you used?
 Difference between Gerrit Change ID and Git commit ID. If I amend a commit, Will the commit ID change? What about Change ID? will it change?
 He showed me a picture with few vehicles in it. Asked me to explain each car's POV. 
 He showed me one more pic of a curved road. Asked me what will I do now.
+What else can I say?

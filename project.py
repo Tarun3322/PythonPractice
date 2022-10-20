@@ -45,4 +45,4 @@ for line in range(0, len(smallest_sloc)):
         # Show the additions [+] or deletions [-] for the file that is the largest.
         if line == len(smallest_sloc) - 1:
             for new_line in range(line + 1, len(largest_sloc)):
-                print(f"{symbol} Line {new_line + 1}:[/bold {color}] {largest_sloc[new_line]}")
+            

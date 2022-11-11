@@ -8,7 +8,7 @@ class Employee:
         print(self.name + " is working in " + self.location + " location" + ", whose id is " + self.id + ".")
 
 emp1 = Employee("Tarun", "0210487", "HYD")
-emp2 = Employee("Maha","10811","VSKP")
+emp2 = Employee("Seethayya","10811","VSKP")
 
 emp1.prnt()
 emp2.prnt()
